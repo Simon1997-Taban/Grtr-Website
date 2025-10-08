@@ -1,40 +1,36 @@
 <header id="header" class="header d-flex align-items-center position-relative">
     <div class="container position-relative d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
+      <a href="/" class="logo d-flex align-items-center me-auto me-xl-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!-- <img src="assets/img/logo.webp" alt=""> -->
-        <h1 class="sitename">Story</h1>
+        <img src="{{ asset('theme/assets/img/logo.png') }}" alt="">
+        <!-- <h1 class="sitename">Story</h1> -->
       </a>
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="index.html" class="active">Home</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="category.html">Category</a></li>
-          <li><a href="blog-details.html">Blog Details</a></li>
-          <li><a href="author-profile.html">Author Profile</a></li>
-          <li class="dropdown"><a href="#"><span>Pages</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+          <li><a href="/" class="active">Home</a></li>
+          <li class="dropdown"><a href="#"><span>About us</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="about.html">About</a></li>
-              <li><a href="category.html">Category</a></li>
-              <li><a href="blog-details.html">Blog Details</a></li>
-              <li><a href="author-profile.html">Author Profile</a></li>
-              <li><a href="search-results.html">Search Results</a></li>
-              <li><a href="404.html">404 Not Found Page</a></li>
-
-              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                <ul>
-                  <li><a href="#">Deep Dropdown 1</a></li>
-                  <li><a href="#">Deep Dropdown 2</a></li>
-                  <li><a href="#">Deep Dropdown 3</a></li>
-                  <li><a href="#">Deep Dropdown 4</a></li>
-                  <li><a href="#">Deep Dropdown 5</a></li>
-                </ul>
-              </li>
+              <li><a href="/who-we-are">Who we are</a></li>
+              <li><a href="/donors-partners">Donors & Partners</a></li>
             </ul>
           </li>
-          <li><a href="contact.html">Contact</a></li>
+          <li class="dropdown"><a href="/what-we-do"><span>What we do</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+              <li><a href="/what-we-do/livelihood">Livelihood</a></li>
+              <li><a href="/what-we-do/education">Education</a></li>
+              <li><a href="/what-we-do/peace-building">Peace Building</a></li>
+              <li><a href="/what-we-do/environment-protection">Environment Protection</a></li>
+              <li><a href="/what-we-do/wash">Water, Sanitation & Hygiene</a></li>
+              <li><a href="/what-we-do/research">Research</a></li>
+            </ul>
+          </li>
+          <li><a href="/gallery">Gallery</a></li>
+          <!-- <li><a href="category.html">Category</a></li>
+          <li><a href="blog-details.html">Blog Details</a></li>
+          <li><a href="author-profile.html">Author Profile</a></li> -->
+          <li><a href="/contact-us">Contact us</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>

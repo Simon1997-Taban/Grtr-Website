@@ -20,3 +20,25 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::get('/who-we-are',[App\Http\Controllers\PageController::class, 'index']);
+
+Route::get('/donors-partners',[App\Http\Controllers\PageController::class, 'index']);
+
+Route::get('/what-we-do',[App\Http\Controllers\PageController::class, 'index']);
+
+Route::get('/what-we-do/livelihood',[App\Http\Controllers\PageController::class, 'index']);
+
+Route::get('/what-we-do/education',[App\Http\Controllers\PageController::class, 'index']);
+
+Route::get('/what-we-do/peace-building',[App\Http\Controllers\PageController::class, 'index']);
+
+Route::get('/what-we-do/environment-protection',[App\Http\Controllers\PageController::class, 'index']);
+
+Route::get('/what-we-do/wash',[App\Http\Controllers\PageController::class, 'index']);
+
+Route::get('/what-we-do/research',[App\Http\Controllers\PageController::class, 'index']);
+
+Route::get('/gallery',[App\Http\Controllers\PageController::class, 'index']);
+
+Route::get('/contact-us',[App\Http\Controllers\PageController::class, 'index']);
