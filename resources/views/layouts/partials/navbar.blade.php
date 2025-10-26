@@ -18,14 +18,17 @@
           </li>
           <li class="dropdown"><a href="/what-we-do"><span>What we do</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="/what-we-do/livelihood">Livelihood</a></li>
+              
               <li><a href="/what-we-do/education">Education</a></li>
+              <li><a href="/what-we-do/research">Research</a></li>
+              <li><a href="/what-we-do/livelihood">Livelihood</a></li>
               <li><a href="/what-we-do/peace-building">Peace Building</a></li>
               <li><a href="/what-we-do/environment-protection">Environment Protection</a></li>
               <li><a href="/what-we-do/wash">Water, Sanitation & Hygiene</a></li>
-              <li><a href="/what-we-do/research">Research</a></li>
+              
             </ul>
           </li>
+          <li><a href="/projects">Projects</a></li>
           <li><a href="/gallery">Gallery</a></li>
           <!-- <li><a href="category.html">Category</a></li>
           <li><a href="blog-details.html">Blog Details</a></li>
@@ -36,10 +39,12 @@
       </nav>
 
       <div class="header-social-links">
+        <!-- <a href="#" class="mx-2"><i class="bi bi-clock"></i>&nbsp;<span id="todaysDate"></span></a> -->
         <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
         <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+        <!-- <a href="#" class="instagram"><i class="bi bi-instagram"></i></a> -->
         <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+        <a href="#" class="youtube"><i class="bi bi-youtube"></i></a>
       </div>
 
     </div>

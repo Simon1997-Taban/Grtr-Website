@@ -165,12 +165,12 @@
             <div class="swiper-slide">
               <article class="blog-card">
                 <div class="blog-image">
-                  <img src="assets/img/blog/blog-post-square-3.webp" alt="Blog Image" loading="lazy">
+                  <img src="{{ asset('theme/assets/img/blog/blog-post-square-3.webp') }}" alt="Blog Image" loading="lazy">
                   <div class="category-badge">Technology</div>
                 </div>
                 <div class="blog-content">
                   <div class="author-info">
-                    <img src="assets/img/person/person-f-8.webp" alt="Author" class="author-avatar">
+                    <img src="{{ asset('theme/assets/img/person/person-f-8.webp') }}" alt="Author" class="author-avatar">
                     <div class="author-details">
                       <span class="author-name">Rebecca Martinez</span>
                       <span class="publish-date">February 8, 2025</span>
@@ -195,12 +195,12 @@
             <div class="swiper-slide">
               <article class="blog-card">
                 <div class="blog-image">
-                  <img src="assets/img/blog/blog-post-square-7.webp" alt="Blog Image" loading="lazy">
+                  <img src="{{ asset('theme/assets/img/blog/blog-post-square-7.webp') }}" alt="Blog Image" loading="lazy">
                   <div class="category-badge">Design</div>
                 </div>
                 <div class="blog-content">
                   <div class="author-info">
-                    <img src="assets/img/person/person-m-12.webp" alt="Author" class="author-avatar">
+                    <img src="{{ asset('theme/assets/img/person/person-m-12.webp') }}" alt="Author" class="author-avatar">
                     <div class="author-details">
                       <span class="author-name">Alexander Thompson</span>
                       <span class="publish-date">February 12, 2025</span>
@@ -225,12 +225,12 @@
             <div class="swiper-slide">
               <article class="blog-card">
                 <div class="blog-image">
-                  <img src="assets/img/blog/blog-post-square-1.webp" alt="Blog Image" loading="lazy">
+                  <img src="{{ asset('theme/assets/img/blog/blog-post-square-1.webp') }}" alt="Blog Image" loading="lazy">
                   <div class="category-badge">Business</div>
                 </div>
                 <div class="blog-content">
                   <div class="author-info">
-                    <img src="assets/img/person/person-f-3.webp" alt="Author" class="author-avatar">
+                    <img src="{{ asset('theme/assets/img/person/person-f-3.webp') }}" alt="Author" class="author-avatar">
                     <div class="author-details">
                       <span class="author-name">Sophia Williams</span>
                       <span class="publish-date">February 15, 2025</span>
@@ -255,12 +255,12 @@
             <div class="swiper-slide">
               <article class="blog-card">
                 <div class="blog-image">
-                  <img src="assets/img/blog/blog-post-square-5.webp" alt="Blog Image" loading="lazy">
+                  <img src="{{ asset('theme/assets/img/blog/blog-post-square-5.webp') }}" alt="Blog Image" loading="lazy">
                   <div class="category-badge">Lifestyle</div>
                 </div>
                 <div class="blog-content">
                   <div class="author-info">
-                    <img src="assets/img/person/person-m-7.webp" alt="Author" class="author-avatar">
+                    <img src="{{ asset('theme/assets/img/person/person-m-7.webp') }}" alt="Author" class="author-avatar">
                     <div class="author-details">
                       <span class="author-name">Michael Chen</span>
                       <span class="publish-date">February 18, 2025</span>
@@ -285,12 +285,12 @@
             <div class="swiper-slide">
               <article class="blog-card">
                 <div class="blog-image">
-                  <img src="assets/img/blog/blog-post-square-9.webp" alt="Blog Image" loading="lazy">
+                  <img src="{{ asset('theme/assets/img/blog/blog-post-square-9.webp') }}" alt="Blog Image" loading="lazy">
                   <div class="category-badge">Marketing</div>
                 </div>
                 <div class="blog-content">
                   <div class="author-info">
-                    <img src="assets/img/person/person-f-11.webp" alt="Author" class="author-avatar">
+                    <img src="{{ asset('theme/assets/img/person/person-f-11.webp') }}" alt="Author" class="author-avatar">
                     <div class="author-details">
                       <span class="author-name">Elena Rodriguez</span>
                       <span class="publish-date">February 21, 2025</span>
@@ -336,11 +336,11 @@
           <div class="col-lg-8">
             <article class="hero-post" data-aos="zoom-out" data-aos-delay="200">
               <div class="post-img">
-                <img src="assets/img/blog/blog-post-5.webp" alt="" class="img-fluid" loading="lazy">
+                <img src="{{ asset('theme/assets/img/blog/blog-post-5.webp') }}" alt="" class="img-fluid" loading="lazy">
               </div>
               <div class="post-content">
                 <div class="author-info">
-                  <img src="assets/img/person/person-m-8.webp" alt="" class="author-avatar">
+                  <img src="{{ asset('theme/assets/img/person/person-m-8.webp') }}" alt="" class="author-avatar">
                   <div class="author-details">
                     <span class="author-name">Michael R.</span>
                     <span class="post-date">15 March 2024</span>
@@ -362,7 +362,7 @@
             <div class="sidebar-posts">
               <article class="sidebar-post" data-aos="fade-left" data-aos-delay="300">
                 <div class="post-img">
-                  <img src="assets/img/blog/blog-post-8.webp" alt="" class="img-fluid" loading="lazy">
+                  <img src="{{ asset('theme/assets/img/blog/blog-post-8.webp') }}" alt="" class="img-fluid" loading="lazy">
                 </div>
                 <div class="post-content">
                   <span class="post-category">Design</span>
@@ -377,7 +377,7 @@
 
               <article class="sidebar-post" data-aos="fade-left" data-aos-delay="400">
                 <div class="post-img">
-                  <img src="assets/img/blog/blog-post-4.webp" alt="" class="img-fluid" loading="lazy">
+                  <img src="{{ asset('theme/assets/img/blog/blog-post-4.webp') }}" alt="" class="img-fluid" loading="lazy">
                 </div>
                 <div class="post-content">
                   <span class="post-category">Business</span>
@@ -392,7 +392,7 @@
 
               <article class="sidebar-post" data-aos="fade-left" data-aos-delay="500">
                 <div class="post-img">
-                  <img src="assets/img/blog/blog-post-1.webp" alt="" class="img-fluid" loading="lazy">
+                  <img src="{{ asset('theme/assets/img/blog/blog-post-1.webp') }}" alt="" class="img-fluid" loading="lazy">
                 </div>
                 <div class="post-content">
                   <span class="post-category">Lifestyle</span>
@@ -407,7 +407,7 @@
 
               <article class="sidebar-post" data-aos="fade-left" data-aos-delay="600">
                 <div class="post-img">
-                  <img src="assets/img/blog/blog-post-3.webp" alt="" class="img-fluid" loading="lazy">
+                  <img src="{{ asset('theme/assets/img/blog/blog-post-3.webp') }}" alt="" class="img-fluid" loading="lazy">
                 </div>
                 <div class="post-content">
                   <span class="post-category">Tech</span>
@@ -429,7 +429,7 @@
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
               <article class="grid-post">
                 <div class="post-img">
-                  <img src="assets/img/blog/blog-post-6.webp" alt="" class="img-fluid" loading="lazy">
+                  <img src="{{ asset('theme/assets/img/blog/blog-post-6.webp') }}" alt="" class="img-fluid" loading="lazy">
                   <div class="post-overlay">
                     <span class="category-tag">Travel</span>
                   </div>
@@ -441,7 +441,7 @@
                   <p class="excerpt">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
                   <div class="post-footer">
                     <div class="author-info">
-                      <img src="assets/img/person/person-f-7.webp" alt="" class="author-img">
+                      <img src="{{ asset('theme/assets/img/person/person-f-7.webp') }}" alt="" class="author-img">
                       <span class="author-name">Sarah K.</span>
                     </div>
                     <span class="read-time">3 min read</span>
@@ -453,7 +453,7 @@
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
               <article class="grid-post">
                 <div class="post-img">
-                  <img src="assets/img/blog/blog-post-2.webp" alt="" class="img-fluid" loading="lazy">
+                  <img src="{{ asset('theme/assets/img/blog/blog-post-2.webp') }}" alt="" class="img-fluid" loading="lazy">
                   <div class="post-overlay">
                     <span class="category-tag">Health</span>
                   </div>
@@ -465,7 +465,7 @@
                   <p class="excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
                   <div class="post-footer">
                     <div class="author-info">
-                      <img src="assets/img/person/person-m-12.webp" alt="" class="author-img">
+                      <img src="{{ asset('theme/assets/img/person/person-m-12.webp') }}" alt="" class="author-img">
                       <span class="author-name">David L.</span>
                     </div>
                     <span class="read-time">4 min read</span>
@@ -477,7 +477,7 @@
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="400">
               <article class="grid-post">
                 <div class="post-img">
-                  <img src="assets/img/blog/blog-post-10.webp" alt="" class="img-fluid" loading="lazy">
+                  <img src="{{ asset('theme/assets/img/blog/blog-post-10.webp') }}" alt="" class="img-fluid" loading="lazy">
                   <div class="post-overlay">
                     <span class="category-tag">Finance</span>
                   </div>
@@ -489,7 +489,7 @@
                   <p class="excerpt">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
                   <div class="post-footer">
                     <div class="author-info">
-                      <img src="assets/img/person/person-f-11.webp" alt="" class="author-img">
+                      <img src="{{ asset('theme/assets/img/person/person-f-11.webp') }}" alt="" class="author-img">
                       <span class="author-name">Emily T.</span>
                     </div>
                     <span class="read-time">6 min read</span>
@@ -501,7 +501,7 @@
             <div class="col-md-6" data-aos="fade-up" data-aos-delay="500">
               <article class="grid-post">
                 <div class="post-img">
-                  <img src="assets/img/blog/blog-post-7.webp" alt="" class="img-fluid" loading="lazy">
+                  <img src="{{ asset('theme/assets/img/blog/blog-post-7.webp') }}" alt="" class="img-fluid" loading="lazy">
                   <div class="post-overlay">
                     <span class="category-tag">Education</span>
                   </div>
@@ -513,7 +513,7 @@
                   <p class="excerpt">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
                   <div class="post-footer">
                     <div class="author-info">
-                      <img src="assets/img/person/person-m-9.webp" alt="" class="author-img">
+                      <img src="{{ asset('theme/assets/img/person/person-m-9.webp') }}" alt="" class="author-img">
                       <span class="author-name">Alex M.</span>
                     </div>
                     <span class="read-time">2 min read</span>

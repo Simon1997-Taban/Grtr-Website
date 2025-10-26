@@ -18,14 +18,14 @@
           </div>
         </div>
       </div>
-      <nav class="breadcrumbs">
+      <!-- <nav class="breadcrumbs">
         <div class="container">
           <ol>
             <li><a href="/">Home</a></li>
             <li class="current">Contact</li>
           </ol>
         </div>
-      </nav>
+      </nav> -->
     </div><!-- End Page Title -->
 
     <!-- Contact Section -->
