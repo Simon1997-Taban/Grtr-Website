@@ -14,9 +14,8 @@
             <div class="social-links mt-4">
 
               <a href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
               <a href="#" aria-label="X"><i class="bi bi-twitter-x"></i></a>
-              <a href="#" aria-label="Youtube"><i class="bi bi-youtube"></i></a>
+              <a href="https://www.youtube.com/@globalrehabilitationandtra2639" target="blank" aria-label="Youtube"><i class="bi bi-youtube"></i></a>
             </div>
           </div>
         </div>
@@ -51,7 +50,7 @@
             <div class="footer-bottom-content">
               <p class="mb-0">© <strong>2025</strong>. All rights reserved.</p>
               <div class="credits">
-                Designed by <a href="https://codestoreinvestments.com/">Codestore Investments</a>
+                Designed by <a href="https://codestoreinvestments.com/" target="blank">Codestore Investments</a>
               </div>
             </div>
           </div>

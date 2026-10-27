@@ -38,7 +38,12 @@ Route::get('/what-we-do/environment-protection',[App\Http\Controllers\PageContro
 Route::get('/what-we-do/wash',[App\Http\Controllers\PageController::class, 'index']);
 
 Route::get('/what-we-do/research',[App\Http\Controllers\PageController::class, 'index']);
+Route::get('/projects',[App\Http\Controllers\PageController::class, 'index']);
 
 Route::get('/gallery',[App\Http\Controllers\PageController::class, 'index']);
 
+Route::get('/project-guide',[App\Http\Controllers\PageController::class, 'index']);
+
 Route::get('/contact-us',[App\Http\Controllers\PageController::class, 'index']);
+
+Route::get('/blog/article/there-is-talent-hidden-in-the-bushes-/{id}',[App\Http\Controllers\PostController::class, 'single_post']);

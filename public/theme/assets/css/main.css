@@ -4729,3 +4729,74 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 60%);
   font-size: 14px;
 }
+
+/* Evidence-based donor and project listings. */
+.partner-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 24px;
+  align-items: stretch;
+}
+
+.partner-card,
+.project-card {
+  min-width: 0;
+  padding: 24px;
+  background: #fff;
+  border: 1px solid color-mix(in srgb, var(--default-color), transparent 88%);
+  border-radius: 12px;
+}
+
+.partner-card {
+  display: flex;
+  min-height: 150px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+.partner-card img {
+  display: block;
+  width: 100%;
+  max-width: 220px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.partner-card h2 {
+  margin: 0;
+  font-size: 1.05rem;
+  text-align: center;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
+  gap: 24px;
+}
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.project-card h2 {
+  font-size: 1.25rem;
+}
+
+.project-card p {
+  margin: 0;
+  line-height: 1.65;
+}
+
+.project-card .btn {
+  margin-top: auto;
+}
+
+.project-information-note {
+  margin-top: 24px;
+}
+

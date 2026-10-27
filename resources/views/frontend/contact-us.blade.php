@@ -7,12 +7,9 @@
         <div class="container">
           <div class="row d-flex justify-content-center text-center">
             <div class="col-lg-8">
-              <h1 class="heading-title">Contact</h1>
+              <h1 class="heading-title">Contact us</h1>
               <p class="mb-0">
-                Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo
-                odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum
-                debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat
-                ipsum dolorem.
+                Our offices are always open and we welcome visitors like you. Pay us a visit, and we gladly welcome you!
               </p>
             </div>
           </div>
@@ -36,7 +33,7 @@
           <div class="contact-info-panel">
             <div class="contact-info-header">
               <h3>Contact Information</h3>
-              <p>Dignissimos deleniti accusamus rerum voluptate. Dignissimos rerum sit maiores reiciendis voluptate inventore ut.</p>
+              <p>Simply make that courtesy call, we'll be appreciative</p>
             </div>
 
             <div class="contact-info-cards">
@@ -46,7 +43,7 @@
                 </div>
                 <div class="card-content">
                   <h4>Our Location</h4>
-                  <p>4952 Hilltop Dr, Anytown, CA 90210</p>
+                  <p>Ofua Zone II, Terego District, Uganda</p>
                 </div>
               </div>
 
@@ -56,7 +53,7 @@
                 </div>
                 <div class="card-content">
                   <h4>Email Us</h4>
-                  <p>info@example.com</p>
+                  <p>info@grtr-u.org</p>
                 </div>
               </div>
 
@@ -66,11 +63,11 @@
                 </div>
                 <div class="card-content">
                   <h4>Call Us</h4>
-                  <p>+1 (555) 123-4567</p>
+                  <p>+256 393 238332</p>
                 </div>
               </div>
 
-              <div class="info-card">
+              <!-- <div class="info-card">
                 <div class="icon-container">
                   <i class="bi bi-clock-history"></i>
                 </div>
@@ -78,7 +75,7 @@
                   <h4>Working Hours</h4>
                   <p>Monday-Saturday: 9AM - 7PM</p>
                 </div>
-              </div>
+              </div> -->
             </div>
 
             <div class="social-links-panel">
@@ -86,8 +83,6 @@
               <div class="social-icons">
                 <a href="#"><i class="bi bi-facebook"></i></a>
                 <a href="#"><i class="bi bi-twitter-x"></i></a>
-                <a href="#"><i class="bi bi-instagram"></i></a>
-                <a href="#"><i class="bi bi-linkedin"></i></a>
                 <a href="#"><i class="bi bi-youtube"></i></a>
               </div>
             </div>
@@ -95,7 +90,8 @@
 
           <div class="contact-form-panel">
             <div class="map-container">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3315.196357286159!2d31.394461209564497!3d2.969404154220825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x176e1712a071d2d9%3A0x47da7dd4efcea247!2sGlobal%20Rehabilitation%20for%20Transformation%20(GRTR-Uganda)!5e1!3m2!1sen!2sug!4v1783022191362!5m2!1sen!2sug" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
             </div>
 
             <div class="form-container">

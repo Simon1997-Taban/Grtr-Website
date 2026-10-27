@@ -33,7 +33,7 @@
 	            <section id="overview" class="content-block" data-aos="fade-up">
 	            	<div class="article-hero">
 				          <div class="hero-background">
-				            <img src="{{ asset('theme/assets/img/blog/livelihood.jpg') }}" alt="Machine Learning in Healthcare" class="hero-bg-image">
+				            <img src="{{ asset('theme/assets/img/blog/tree-planting.jpg') }}" alt="Machine Learning in Healthcare" class="hero-bg-image">
 				            <!-- <div class="hero-overlay"></div> -->
 				          </div>
 				        </div>

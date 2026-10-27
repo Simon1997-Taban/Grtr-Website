@@ -33,7 +33,7 @@
 	            <section id="overview" class="content-block" data-aos="fade-up">
 	            	<div class="article-hero">
 				          <div class="hero-background">
-				            <img src="{{ asset('theme/assets/img/blog/livelihood.jpg') }}" alt="Machine Learning in Healthcare" class="hero-bg-image">
+				            <img src="{{ asset('theme/assets/img/blog/wash-session.jpg') }}" alt="Machine Learning in Healthcare" class="hero-bg-image">
 				            <!-- <div class="hero-overlay"></div> -->
 				          </div>
 				        </div>
@@ -41,7 +41,7 @@
 	                <p class="lead-paragraph">
 	                  Our environment, our responsibility!
 	                </p>
-	                <p>Sensitization of the society on climate change and and the need to protect the environment is necessary in mitigating the adverse effects that human activites impart on the environment especially in the refugee camps. We embrace tree planting and reafforestaion programs to initiate, recreate and recover from an ecosystem that has been disturbed.</p>
+	                <p>Sensitization of the community on climate change and and the need to protect the environment is necessary in mitigating the adverse effects that human activites impart on the environment especially in the refugee camps. We embrace tree planting and reafforestaion programs to initiate, recreate and recover from an ecosystem that has been disturbed.</p>
 	              </div>
 	            </section>
 	          </main>
